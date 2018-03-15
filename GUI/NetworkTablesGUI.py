@@ -7,7 +7,7 @@ import logging
 
 
 #ip Address
-ip = "10.46.82.2"
+ip = "XX.XX.XX.XX" #Replace with Valid IP
 
 '''Network Tables Communication'''
 
