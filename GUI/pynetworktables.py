@@ -4,7 +4,7 @@ from networktables import NetworkTables as nt
 import logging
 from tkinter import *
 
-ip = "10.46.82.2"
+ip = "XX.XX.XX.X" #Replace with Valid IP
 
 
 nt.initialize(server=ip)
